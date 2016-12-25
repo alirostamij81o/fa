@@ -63,7 +63,7 @@ function run(msg, matches)
     
 〰〰〰〰〰〰〰
 
-✨سایت اصلی: Tarfand.Ir ✨
+✨سایت اصلی: kalak-amoz.ir ✨
 </i>]]
 end
 
